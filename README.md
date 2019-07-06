@@ -3,6 +3,8 @@ Multithreaded TCP chat server in Python
 
 ## Installation
 
+If you want to run this chat server locally.
+
 ```bash
 git clone https://github.com/JacksonJW/python-chat-server.git
 ```
