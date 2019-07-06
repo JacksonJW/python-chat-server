@@ -4,18 +4,19 @@ Multithreaded TCP chat server in Python
 ## Installation
 
 ```bash
-git clone 
+git clone https://github.com/JacksonJW/python-chat-server.git
 ```
 
 ## Steps for running and connecting to the chat server:
+1. Make sure you have [Python](https://www.python.org/ "Python's Homepage") installed.
 
-1. Run the 'chat_server.py' in the command line:
+2. Run the 'chat_server.py' in the command line:
 
 ```bash
 python3 chat_server.py
 ```
 
-2. Open another command line window and connect to the server:
+3. Open another command line window and connect to the server:
 
 ```bash
 nc localhost 59001
